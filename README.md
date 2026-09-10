@@ -12,7 +12,7 @@ To get started, clone the repository and configure your server (Apache or Nginx)
 API Endpoints
 The API exposes endpoints for managing resources. For example, you can fetch all items with a GET request, retrieve a single item by ID, create new items with POST, update existing ones with PUT, and remove items with DELETE. Each endpoint returns structured JSON responses for easy consumption.
 
-Testing with Postman
+Testing with Postman 
 Postman is an excellent tool for testing this API. After installing Postman, you can create requests to the API by selecting the appropriate HTTP method and entering the endpoint URL (e.g., http://localhost/php-rest-api/api/items). For POST and PUT requests, you can provide JSON data in the request body. Postman will display the API’s response, allowing you to verify functionality quickly. This makes it easy to debug, explore endpoints, and ensure the API behaves as expected.
 
 Future Enhancements
